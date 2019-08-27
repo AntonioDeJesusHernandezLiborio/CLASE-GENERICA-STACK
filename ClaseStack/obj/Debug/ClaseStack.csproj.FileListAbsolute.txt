@@ -1,0 +1,7 @@
+D:\C#\Estructura De Datos\ClaseStack\ClaseStack\bin\Debug\ClaseStack.exe.config
+D:\C#\Estructura De Datos\ClaseStack\ClaseStack\bin\Debug\ClaseStack.exe
+D:\C#\Estructura De Datos\ClaseStack\ClaseStack\bin\Debug\ClaseStack.pdb
+D:\C#\Estructura De Datos\ClaseStack\ClaseStack\obj\Debug\ClaseStack.csprojAssemblyReference.cache
+D:\C#\Estructura De Datos\ClaseStack\ClaseStack\obj\Debug\ClaseStack.csproj.CoreCompileInputs.cache
+D:\C#\Estructura De Datos\ClaseStack\ClaseStack\obj\Debug\ClaseStack.exe
+D:\C#\Estructura De Datos\ClaseStack\ClaseStack\obj\Debug\ClaseStack.pdb
